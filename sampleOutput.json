@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Thailand lèse-majesté: Activist jailed for dressing like Thai queen at protest",
+      "description": "Another activist is imprisoned under Thailand's stringent law banning criticism of the royals.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62885149",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1288F/production/_126691957_royalactivistjaild.png",
+      "publishedAt": "2022-09-13T05:22:15.0164837Z",
+      "content": "By Frances MaoBBC News\r\nAn activist in Thailand has been jailed for two years after a court found she insulted the monarchy by dressing like the Thai queen.\r\nJatuporn 'New' Saeoueng, 25, wore a pink … [+2739 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Arrests of anti-monarchists prompt free-speech concerns",
+      "description": "Campaigners criticise police action at events to mark King Charles III's ascension to the throne.",
+      "url": "http://www.bbc.co.uk/news/uk-62883713",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/53A1/production/_126690412_b0ed6c7fa6113b40419eb138f548cb4b3f24a651.jpg",
+      "publishedAt": "2022-09-13T03:37:22.751744Z",
+      "content": "By Christy Cooney &amp; George BowdenBBC News\r\nThe arrests of anti-monarchy protesters after the death of Queen Elizabeth II are \"deeply concerning\", free-speech campaigners have said.\r\nPolice in Sco… [+3789 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Australian man killed by kangaroo he kept as pet, police say",
+      "description": "The 77-year-old man was found by relative in the first such fatal incident since 1936.",
+      "url": "http://www.bbc.co.uk/news/world-australia-62884861",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA05/production/_126690995_gettyimages-151229151.jpg",
+      "publishedAt": "2022-09-13T01:52:18.7705319Z",
+      "content": "By Tiffanie TurnbullBBC News, Sydney\r\nAn Australian man has died after being attacked by a kangaroo he had been keeping as a pet, police say.\r\nA relative found the 77-year-old man with serious injuri… [+568 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Emmys: TV awards kick off in Hollywood",
+      "description": "There are early wins for shows including Succession, Dopesick, Ozark and White Lotus.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-62796137",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9FCC/production/_126680904_succession-3-1200x675.jpg",
+      "publishedAt": "2022-09-13T01:37:23.0497985Z",
+      "content": "Television's most prestigious awards, the Emmys, are being handed out in Los Angeles.\r\nThere has been a muted build-up to the event, with some pre-show festivities called off following the death of Q… [+5310 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: We retook 6,000 sq km from Russia in September, says Zelensky",
+      "description": "President Volodymyr Zelensky says the gains were made in the east and south during a swift counter-offensive.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62884668",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD21/production/_126690665_mediaitem126690664.jpg",
+      "publishedAt": "2022-09-13T00:37:22.8135258Z",
+      "content": "Media caption, WATCH: Ukraine seizes abandoned Russian tanks\r\nUkrainian troops have seized even more territory from Russian forces as they continue their counter-offensive, the country's president ha… [+4282 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US man survives violent alligator attack",
+      "description": "Eric Merda went for a swim in a Florida lake - and barely survived what happened next.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62815204",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E19/production/_126690630_p0d00lfk.jpg",
+      "publishedAt": "2022-09-12T21:37:18.9386152Z",
+      "content": "Two months ago, Eric Merda was attacked by an alligator while out for a long swim in a lake south of Tampa, Florida.\r\nHe'd gotten lost gotten lost in the woods at the Lake Manatee Fish Camp and had d… [+315 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Mile-long queue of 20,000 to see Queen lying at rest",
+      "description": "About 20,000 people are waiting in a queue to file past the Queen's coffin in St Giles' Cathedral.",
+      "url": "http://www.bbc.co.uk/news/uk-scotland-62879795",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14436/production/_126689928_gettyimages-1243170038.jpg",
+      "publishedAt": "2022-09-12T21:22:20.001369Z",
+      "content": "About 20,000 people are waiting in a mile-long queue to file past the Queen's coffin in Edinburgh, according to police estimates. \r\nEx-servicemen and women, families and new friends are among those w… [+4958 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Taoiseach: Queen's death 'reminder to nurture UK-Ireland relations'",
+      "description": "The Queen's visit to Ireland in 2011 was a \"watershed moment\", Irish Taoiseach Micheál Martin tells the BBC.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62879369",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+      "publishedAt": "2022-09-12T20:37:20.845292Z",
+      "content": "By Fergal Keane &amp; Flora DruryBBC News in Cork and London\r\nMedia caption, Micheál Martin tells the BBC about the need to nurture relations between the UK and Ireland\r\nQueen Elizabeth's death is a … [+4214 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: What will Russia's losses mean for Putin?",
+      "description": "Questions are being asked as even state media reported the \"tough\" week, says the BBC's Russia editor.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62879367",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18482/production/_126685499_252771221c1634a227ff2d64e74683466cf0b268.jpg",
+      "publishedAt": "2022-09-12T14:07:20.9080927Z",
+      "content": "By Steve RosenbergRussia Editor, Moscow\r\nYou can normally expect Russian state TV's flagship weekly news programme to trumpet Kremlin successes. \r\nBut yesterday's edition opened with a rare admission… [+5465 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Modern slavery shoots up by 10 million in five years",
+      "description": "More than half of forced labour happens in richer countries, with women and children most at risk.",
+      "url": "http://www.bbc.co.uk/news/world-62877388",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3AD/production/_126679954_childgetty.jpg",
+      "publishedAt": "2022-09-12T11:37:20.2129099Z",
+      "content": "By David MolloyBBC News\r\nModern slavery is a growing challenge thanks to a mix of armed conflict, climate change and the global pandemic, a new UN report says. \r\nInternational Labour Organisation (IL… [+2465 chars]"
+    }
+  ]
+}
